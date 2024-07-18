@@ -11,6 +11,7 @@ A week-long project developed in 2019, serving as an introduction to C++, OpenGL
 - Down: Use the left click or ‘Q’ key.
 - Camera fiew switching: F1 for first person camera and F2 for fixed position camera at the top of the map.
 - Disable/enable fog: ‘F’.
+- Exit: ‘Esc’.
 
 # Build
 To build this project, use Visual Studio, the environment in which it was originally developed and prepared. All necessary dependencies should be automatically downloaded during the build process.
