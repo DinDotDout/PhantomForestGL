@@ -9,8 +9,10 @@ A week-long project developed in 2019, serving as an introduction to C++, OpenGL
 - Disable/enable mouse camera rotation: space bar.
 - Up: Use the right click or ‘E’ key.
 - Down: Use the left click or ‘Q’ key.
-- Camera fiew switching: F1 for first person camera and F2 for fixed position camera at the top of the map.
+- Camera view switching: F1 for first person camera and F2 for fixed position camera at the top of the map.
 - Disable/enable fog: ‘F’.
+- Enable/disable admin mode which enables ambient light and disables bounding map collisions: ‘G’.
+- Increase/decrease movement speed: ‘F’.
 - Exit: ‘Esc’.
 
 # Build
