@@ -1,5 +1,5 @@
 # PhantomForestGL
-A week-long project developed in 2019, serving as an introduction to C++, OpenGL, and GLUT. This demo project was a collaborative effort to familiarize ourselves ([@VBoschMatas](https://github.com/VBoschMatas) and me [@DinDotDout](https://github.com/DinDotDout)) with both the language and the libraries
+A week-long project developed in 2019, serving as an introduction to C++, OpenGL, and GLUT. This demo project was a collaborative effort to familiarize ourselves ([@VBoschMatas](https://github.com/VBoschMatas) and me [@DinDotDout](https://github.com/DinDotDout)) with both the language and the libraries.
 ![preview](https://github.com/user-attachments/assets/ebd868fc-174c-4c50-9ff6-897abb569b13)
 ![bigboo](https://github.com/user-attachments/assets/a852ca0b-871c-4c68-abd2-675c73596ae1)
 
